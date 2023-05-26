@@ -1,0 +1,17 @@
+{
+  "name": "node-authentication",
+  "version": "1.0.0",
+  "description": "Node.js authentication example",
+  "main": "app.js",
+  "scripts": {
+    "start": "node app.js"
+  },
+  "author": "Your Name",
+  "license": "MIT",
+  "dependencies": {
+    "@elastic/elasticsearch": "^7.15.0",
+    "crypto": "^1.0.1",
+    "express": "^4.17.1",
+    "jsonwebtoken": "^8.5.1"
+  }
+}

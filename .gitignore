@@ -1,0 +1,54 @@
+# Logs
+logs
+*.log
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+
+# Dependency directories
+node_modules/
+
+# Output directories
+dist/
+build/
+
+# Environment configuration
+.env
+
+# IDE files
+.vscode/
+.idea/
+
+# OS generated files
+.DS_Store
+Thumbs.db
+
+# Cache and compiled files
+*.swp
+*.swo
+*.swn
+*.swm
+*.bak
+*.tmp
+*.tmp.*
+*.retry
+*.pid
+*.pid.lock
+*.seed
+*.data
+*.db
+*.sqlite
+*.sql
+*.tar
+*.tar.gz
+*.tgz
+*.zip
+*.rar
+*.gz
+
+# macOS specific files
+._*
+.Spotlight-V100
+.DS_Store
+.AppleDouble
+.LSOverride
